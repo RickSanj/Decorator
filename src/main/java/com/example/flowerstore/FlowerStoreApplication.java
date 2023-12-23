@@ -1,7 +1,7 @@
 package com.example.flowerstore;
 
-import com.example.flowerstore.flowers.Flower;
-import com.example.flowerstore.flowers.FlowerColor;
+import com.example.flowerstore.item.Flower;
+import com.example.flowerstore.item.FlowerColor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
